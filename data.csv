@@ -1,0 +1,31 @@
+UserID,Gender, Age, Married, Payment_Method, Has_Kids, Income, Contract_Length, Label
+9147,Male,22,1,auto,1,32000,15,1
+6348,Female,29,1,non-auto,1,34000,30,0
+1148,Female,27,1,auto,1,35000,20,1
+3789,Female,26,0,non-auto,1,33000,15,1
+4489,Female,25,0,auto,1,30000,20,1
+3914,Female,40,1,non-auto,1,60000,20,0
+3397,Male,20,1,non-auto,1,22000,20,1
+3871,Male,34,1,auto,1,33000,20,0
+1446,Female,35,1,non-auto,1,32000,20,0
+2469,Male,55,1,auto,1,56000,20,0
+4975,Female,45,0,non-auto,0,40000,25,0
+1375,Female,26,0,auto,0,25000,10,0
+6377,Male,40,1,auto,1,30000,15,0
+9924,Male,29,1,non-auto,1,34000,10,1
+1456,Female,36,0,non-auto,0,50000,20,0
+5871,Male,37,0,auto,0,60000,10,0
+1964,Female,26,0,non-auto,0,24000,15,0
+6317,Male,29,1,auto,1,50000,15,0
+2016,Female,34,1,non-auto,1,59000,30,0
+1463,Female,25,1,auto,1,25000,20,1
+3677,Female,31,0,auto,1,26000,30,0
+6379,Male,24,0,auto,0,26000,30,0
+9374,Female,30,1,non-auto,1,30000,15,1
+9146,Male,30,1,non-auto,1,36000,30,0
+1637,Female,48,1,auto,1,24000,30,0
+1795,Male,29,1,auto,1,34000,15,1
+5397,Male,28,0,non-auto,0,30000,20,0
+2793,Male,30,1,non-auto,1,35000,15, 1
+7834,Male,35,1,auto,1,50000,30,0
+2879,Male,38,0,non-auto,0,60000,20,0
