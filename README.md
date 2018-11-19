@@ -25,7 +25,7 @@ The rules miss some samples in the dataset.
 The real rules approximately matches the rules in DecisionTreeClassifier.  
 The DecisionTreeClassifier uses `gini index` as criterion to split the datasets.  
 However, criterion for XGBClassifier is different from DecisionTreeClassifier.  
-This is descripted in Section 3.3 in this paper(https://arxiv.org/pdf/1603.02754.pdf).  
+This is explained in Section 3.3 in this paper(https://arxiv.org/pdf/1603.02754.pdf).  
 
-DecisionTreeClassifier uses CART to decide where to split the tree.  
+DecisionTreeClassifier uses CART(Classification And Regression Tree) to decide where to split the tree.  
 XGBClassifier uses the weights from the previous iteration as inputs into a weighted splitting serch.  
